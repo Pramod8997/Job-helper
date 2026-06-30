@@ -1,0 +1,17 @@
+I'm Jane Doe, a recent CS graduate from State University (B.S. Computer
+Science, 2024).
+
+During college I built a personal expense tracker using Flask and SQLite —
+it handles user authentication, expense categories, and monthly reports.
+I also worked on a group project building a student club management app
+where I developed the REST API backend using Flask.
+
+I interned at TechCorp for 3 months as a junior developer, where I helped
+maintain their internal tools written in Python. I wrote unit tests and
+fixed bugs in their Flask-based admin dashboard.
+
+I'm comfortable with Python, JavaScript, SQL, and Git. I've used basic
+HTML/CSS for frontend work. I read about Docker and Kubernetes but haven't
+used them in a real project yet.
+
+I have an AWS Cloud Practitioner certification.

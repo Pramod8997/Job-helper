@@ -1,0 +1,27 @@
+Senior Backend Engineer
+
+About the Role:
+We are looking for a Senior Backend Engineer to join our platform team. You'll
+be designing and building scalable microservices that power our core product.
+
+Must Have:
+- 3+ years of Python development experience
+- Experience with PostgreSQL or similar relational databases
+- Docker and container orchestration (Kubernetes a plus)
+- REST API design and implementation
+- CI/CD pipeline experience
+- Strong understanding of distributed systems
+
+Nice to Have:
+- Experience with Redis or similar caching solutions
+- Message queue systems (RabbitMQ, Kafka)
+- Infrastructure as Code (Terraform, CloudFormation)
+- Monitoring and observability (Prometheus, Grafana)
+
+Soft Skills:
+- Strong communication and mentoring abilities
+- Ownership mindset — you take responsibility for your services end-to-end
+- Comfortable working in a fast-paced, collaborative environment
+
+We offer competitive compensation, flexible work arrangements, and a culture
+that values continuous learning. We are an equal opportunity employer.
