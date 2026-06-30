@@ -1,3 +1,7 @@
+# Building/Prompting
+BUILD_PROMPT.md
+docs/
+
 # Virtual environment
 venv/
 .venv/
